@@ -44,4 +44,5 @@
 .botao:hover {
   background-color: #0310be;
   color: #ece7dd;
+  transform: scale(1.2); 
 }
